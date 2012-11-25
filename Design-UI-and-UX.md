@@ -12,6 +12,9 @@ by Michael Michalko
 ##Layout
 by Gavin Ambrose and Paul Harris
 
+## Responsive web design
+by Ethan Marcotte
+
 # UI / UX
 
 ## The Icon Handbook
